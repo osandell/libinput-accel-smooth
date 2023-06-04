@@ -1,4 +1,4 @@
-project('libinput', 'c',
+project('libinput-accel-smooth', 'c',
 	version : '1.23.0',
 	license : 'MIT/Expat',
 	default_options : [ 'c_std=gnu99', 'warning_level=2' ],
